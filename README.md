@@ -6,4 +6,4 @@ Games: BINGO, Tic-Tac-Toe, Four in a Row, Dots & Boxes, Checkers, Yacht Dice, Cr
 
 Static site, no server: peers connect over WebRTC via PeerJS. The room creator's browser is the host and runs the rules (`app.js`); each game is one file in `games/` that calls `register({...})`.
 
-Live: https://bingo-teal-eight.vercel.app
+Live: https://games.sagar-gavand.co.in
